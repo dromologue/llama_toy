@@ -1,5 +1,5 @@
 # llama_toy
-Toy command line fn to use Llama GPT
+Toy command line fn in python to use Llama GPT
  
 This is a simple toy application to show the use of Llama indexing for GPT.
 
@@ -19,7 +19,8 @@ For this example the default data is included in the repo and is a selection of 
 
 ## dependencies:
  	Python 3.1+
-	LlamaGPT: instructions [here](https://gpt-index.readthedocs.io/en/latest/getting_started/installation.html)
+	LlamaGPT: instructions : https://gpt-index.readthedocs.io/en/latest/getting_started/installation.html
+	
 
 Feel free to PR. 
 
