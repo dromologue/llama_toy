@@ -51,7 +51,7 @@ source_docs = SimpleDirectoryReader(readr).load_data()
 index = GPTSimpleVectorIndex(source_docs)
 
 response = index.query(qry)
-print('Answer: ', response)
+print('Answer: ', response, "\n")
 
 with open(outf, 'w') as f:
     f.write(str(response))
