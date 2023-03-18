@@ -1,0 +1,2 @@
+- Building a High Availability RabbitMQ Cluster - https://kisztof.medium.com/building-a-high-availability-rabbitmq-cluster-27d0eb67938
+ RabbitMQ is a powerful and widely-used open-source message broker that enables asynchronous communication between distributed applications. Which I wrote about here: . In this post, we will discuss the process of setting up an HA RabbitMQ cluster, covering the necessary steps and considerations.

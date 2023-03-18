@@ -1,0 +1,2 @@
+- Elastic Load Balancer and Auto Scaling Groups - https://medium.com/@josueparra2892/elastic-load-balancer-and-auto-scaling-groups-f06415afe1c6
+ In this tutorial, we will review two essential AWS services that help us with our application scalability, ELB (elastic load balancer) and ASG (Auto scaling groups). First, let us talk about what a load balancer is.

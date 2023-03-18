@@ -1,0 +1,2 @@
+- Eventual Consistency: When Microservices May Leave You Speechless - https://medium.com/@matteopampana/eventual-consistency-when-microservices-may-leave-you-speechless-a77f9c0bb24f
+ When I started working with microservices architectures one of the most challenging things was how to adapt my way of thinking about data consistency among services.

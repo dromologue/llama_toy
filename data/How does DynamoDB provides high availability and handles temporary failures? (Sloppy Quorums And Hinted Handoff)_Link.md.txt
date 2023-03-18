@@ -1,0 +1,2 @@
+- How does DynamoDB provides high availability and handles temporary failures? (Sloppy Quorums And Hinted Handoff) - https://medium.com/@shashikantrbl123/how-does-dynamodb-provides-high-availability-and-handles-temporary-failures-232e897a4c90
+ Amazon has been revolutionizing tech industry by producing different services on Amazon Web Services.

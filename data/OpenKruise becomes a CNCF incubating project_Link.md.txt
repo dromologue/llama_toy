@@ -1,0 +1,2 @@
+- OpenKruise becomes a CNCF incubating project - https://www.cncf.io/blog/2023/03/02/openkruise-becomes-a-cncf-incubating-project/
+ The CNCF Technical Oversight Committee (TOC) has voted to accept OpenKruise as a CNCF incubating project. OpenKruise is an extended component suite for Kubernetes focused on application automations like deployment, upgrade, ops, and availability protection.

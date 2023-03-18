@@ -1,0 +1,2 @@
+- System Design Interview Survival Guide (2023): Preparation Strategies and Practical Tips - https://levelup.gitconnected.com/system-design-interview-survival-guide-2023-preparation-strategies-and-practical-tips-ba9314e6b9e3
+ The 2023 system design interview playbook. System design interviews are an important step in the hiring process for many software engineering roles, particularly for positions that involve building and scaling complex systems.
