@@ -1,0 +1,2 @@
+- Design Cost-Effective Systems with Event Modeling - https://cor3d.medium.com/design-cost-effective-systems-with-event-modeling-6dcdfd0e3113
+ Events happen in a system — whether we store them or not that’s a choice. We begin by designing the screen that a user will see. The table representation is represented by a set of swim lanes corresponding to records — or rows.

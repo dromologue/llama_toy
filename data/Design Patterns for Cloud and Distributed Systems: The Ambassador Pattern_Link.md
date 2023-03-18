@@ -1,0 +1,2 @@
+- Design Patterns for Cloud and Distributed Systems: The Ambassador Pattern - https://thiago-mendes.medium.com/design-patterns-for-cloud-and-distributed-systems-the-ambassador-pattern-610778752b0c
+ Welcome to the first part of our series on Design Patterns for Cloud and Distributed Systems. In this series, we will explore the design patterns commonly used in the architecture of cloud solutions and distributed systems.

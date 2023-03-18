@@ -1,0 +1,2 @@
+- Search System: Design that scales - https://medium.com/@manavgarg0706/search-system-design-that-scales-2fdf407a2d34
+ Implementing a search system at scale is critical for most websites nowadays, and many use elastic search mechanisms behind the scenes. In this blog, I will discuss how a search system can be scaled and made available for millions of users.

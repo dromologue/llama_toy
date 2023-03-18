@@ -1,0 +1,2 @@
+- Event-Driven Programming - https://medium.com/@isurangamperera/event-driven-programming-ad30019357f7
+ Event-driven programming is a popular paradigm in software engineering that facilitates reactive programming. In this paradigm, the software design is organized around events that occur within a program or system.

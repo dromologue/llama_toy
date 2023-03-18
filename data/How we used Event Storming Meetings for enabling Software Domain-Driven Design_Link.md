@@ -1,0 +1,2 @@
+- How we used Event Storming Meetings for enabling Software Domain-Driven Design - https://medium.com/building-inventa/how-we-used-event-storming-meetings-for-enabling-software-domain-driven-design-401e5d708eb
+ Domain-driven design (DDD) is a software development approach that focuses on modeling the business domains and rules of a system. It has been known as a powerful technique that can help developers build more effective, flexible, and maintainable software systems.

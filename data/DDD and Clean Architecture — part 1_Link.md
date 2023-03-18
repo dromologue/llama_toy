@@ -1,0 +1,2 @@
+- DDD and Clean Architecture — part 1 - https://medium.com/@eng.hibrahem/ddd-and-clean-architecture-part-1-9a514b964395
+ Clean Architecture (CA) is the system architecture guideline proposed by Robert C. Martin (Uncle Bob) derived from many architectural guidelines like Hexagonal Architecture, and Onion Architecture, among others. Eric Evans introduced the concept of Domain-Driven Design (DDD).

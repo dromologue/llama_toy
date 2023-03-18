@@ -1,0 +1,14 @@
+
+	- Quackle - kwak! http://people.csail.mit.edu/jasonkb/quackle/ #apps 
+	- AI as Co-Pilot: Your Online Life Is About to Change, Like It or Not - https://www.cnet.com/tech/ai-as-co-pilot-your-online-life-is-about-to-change-like-it-or-not/ #AI
+	- 7 essential management training topics for every team leader - https://bigthink.com/plus/management-training-topics/ #management 
+	- 5 science-backed tactics to help you work with difficult people - https://www.fastcompany.com/90845545/science-backed-tactics-to-work-with-difficult-people #management 
+	- Toxic positivity is ruining our workplaces. These three tricks can help. - https://www.fastcompany.com/90850246/toxic-positivity-is-ruining-our-workplaces-these-three-tricks-can-help #management 
+	- Are clouds having their on-prem moment? - https://stackoverflow.blog/2023/02/20/are-companies-shifting-away-from-public-clouds/ #cloud 
+	- Everything You Need To Know About Publish/Subscribe - https://ably.com/topic/pub-sub #System_Design 
+	- The Poetry of Science: A Victorian Portal to Wonder - https://www.themarginalian.org/2023/02/20/the-poetry-of-science-robert-hunt/ #Poetry
+	- Logical programming formal methods - https://bit.ly/3XHYymJ #Logic 
+	- GitHub claims source code search engine is a game changer - https://www.theregister.com/2023/02/07/github_code_search/
+	- 10 Greatest Movies of All Time According to Roger Ebert - https://movieweb.com/greatest-films-roger-ebert/ #film 
+	- Welcome to the oldest part of the metaverse - https://www.technologyreview.com/2023/02/17/1068027/ultima-online-oldest-metaverse/ #techCulture
+	- How To Make Cacio e Pepe: The Easiest Method for Perfect Results Every Time - https://getpocket.com/explore/item/how-to-make-cacio-e-pepe-the-easiest-method-for-perfect-results-every-time #recipes 

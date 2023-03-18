@@ -1,2 +1,2 @@
 
-Justin is an author, poet, and philosopher.
+Latency is the amount of time it takes for a request to be processed and a response to be received. It is usually measured in milliseconds.

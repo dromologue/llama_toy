@@ -1,0 +1,2 @@
+- Introduction to Software Architecture - https://medium.com/@candveloper/introduction-to-software-architecture-bd91ac000da3
+ Software architecture refers to the design and structure of software systems. It provides a blueprint for constructing and managing complex software systems.

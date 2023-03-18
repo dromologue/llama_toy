@@ -1,0 +1,2 @@
+- The Secret to Selling Your Software Architecture - https://betterprogramming.pub/the-secret-to-selling-your-software-architecture-4db9d0725067
+ It was the fall of 2005, and I received an important request from my manager to design a new software architecture for a system integral to the company’s success. As a software architect with several years of experience, I knew this was challenging. But I was determined to rise to the challenge.

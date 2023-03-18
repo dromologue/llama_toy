@@ -1,0 +1,2 @@
+- Lean Software for Startups: Designing a Notification System - https://medium.com/@iainmck/lean-software-for-startups-designing-a-notification-system-dce6c8247ac9
+ This is part of a series sharing my journey building the social AI app Spacebar.

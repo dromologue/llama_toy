@@ -1,0 +1,2 @@
+- Designing and Maintaining Applications (Staying Relevant Today and Viable Tomorrow) - https://medium.com/@imbaker1234/designing-and-maintaining-applications-staying-relevant-today-and-viable-tomorrow-d88b58853856
+ Designing a software system is similar to city planning, requiring a balance between present needs and future growth.

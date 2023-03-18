@@ -1,0 +1,4 @@
+- Software Architecture - https://medium.com/buildly/software-architecture-b2d2a24ed359
+ In the field of software development, the design of a software system is referred to as its “architecture”. A software architecture is a schematic or high-level view of how a software system is organized, structured, and behaves.
+- Software Architecture - https://medium.com/@devsenamishra/software-architecture-hexagonal-architecture-an-overview-2b8e5f91dee2
+ Hexagonal architecture, also known as ports-and-adapters architecture or onion architecture, is a software architecture pattern that emphasizes loose coupling and separation of concerns in software design.

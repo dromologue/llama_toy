@@ -1,0 +1,2 @@
+- High Level Design (HLD) understanding with example (Part1). - https://medium.com/@gaganjain9319/high-level-design-hld-understanding-with-example-part1-a2bb9a0b8826
+ Designing a high-level design (HLD) for a software requires a broad understanding of the system’s architecture, functionality, and requirements. Here are some key things to consider when designing an HLD for a software:

@@ -1,0 +1,2 @@
+- Domain-Driven Design in ASP.NET Core applications - https://enlabsoftwarecompany.medium.com/domain-driven-design-in-asp-net-core-applications-744b7c7447d5
+ The technology industry has experienced significant growth and is considered a critical sector in most countries worldwide. However, despite its glamour, the industry faces challenges due to the rapid development of new and immature systems.

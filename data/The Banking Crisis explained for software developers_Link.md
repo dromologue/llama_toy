@@ -1,0 +1,2 @@
+- The Banking Crisis explained for software developers - https://diogojoma.medium.com/the-banking-crisis-explained-for-software-developers-c4da17884d8c
+ The banking system is a huge platform built with many distributed components (banks). However the designers of the system did a poor job on keeping the components independent and created a huge distributed monolith.

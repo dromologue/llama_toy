@@ -1,0 +1,2 @@
+- Mastering the Pipes and Filters Architecture - https://kisztof.medium.com/mastering-the-pipes-and-filters-architecture-5743ed26f5e0
+ The Pipes and Filters architecture is a well-known design pattern in software engineering that involves breaking down a system into a series of independent components, or filters, that communicate with each other through pipes. E.

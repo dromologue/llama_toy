@@ -1,0 +1,2 @@
+- How to Design your Event Streams — Part 2 - https://medium.com/everything-full-stack/how-to-design-your-event-streams-part-2-931145a31db9
+ Event streams are growingly adopted because of their capability to process large volumes of data in real-time, while allowing systems to interact continuously without coupling.

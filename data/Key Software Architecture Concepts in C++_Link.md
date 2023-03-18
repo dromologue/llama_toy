@@ -1,0 +1,2 @@
+- Key Software Architecture Concepts in C++ - https://medium.com/@bkjoshi76/key-software-architecture-concepts-in-c-d44c729a995a
+ In summary, software architecture in C++ involves designing the overall structure of a software system using concepts such as design patterns, OOP, SOLID principles, clean code, separation of concerns, code reusability, design for testability, and software architecture patterns such as MVC and SOA.

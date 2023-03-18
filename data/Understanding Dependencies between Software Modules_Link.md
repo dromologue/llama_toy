@@ -1,0 +1,2 @@
+- Understanding Dependencies between Software Modules - https://medium.com/@miguel.pinilla_76556/understanding-dependencies-between-software-modules-72f399fc7d6e
+ One of the most important decisions in the design of a system is to define what subsystems or modules depend on what other subsystems or modules. Identifying these dependencies is critical to ensure that a system is scalable (from a software engineering point of view) and maintainable.

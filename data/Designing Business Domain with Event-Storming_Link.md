@@ -1,0 +1,2 @@
+- Designing Business Domain with Event-Storming - https://cor3d.medium.com/designing-business-domain-with-event-storming-5c90a579fa3a
+ An Event-storming session can lead to clarity of the business processes that the system needs to support. Since the timeline gets codified as part of a sequence of events, we end up with the single source of truth of what the system represents. From there, we can drive the structure of the system.

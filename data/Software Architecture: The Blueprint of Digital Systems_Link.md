@@ -1,0 +1,2 @@
+- Software Architecture: The Blueprint of Digital Systems - https://medium.com/@temitayoadefemi_47821/software-architecture-the-blueprint-of-digital-systems-a4c2f7573bab
+ Software architecture is a discipline that involves the design and planning of the fundamental structure of software systems. It is the blueprint that lays out the foundation for a digital system and guides the development process towards achieving specific goals.

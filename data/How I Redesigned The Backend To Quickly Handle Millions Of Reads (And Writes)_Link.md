@@ -1,0 +1,2 @@
+- How I Redesigned The Backend To Quickly Handle Millions Of Reads (And Writes) - https://blog.bitsrc.io/how-i-redesigned-the-backend-to-quickly-handle-millions-of-reads-and-writes-58cfe989e6f8
+ I was at my desk on a lazy Monday morning. Suddenly, an alert appeared on my screen. Our endpoint to show a user's profile info was taking a lot of time to process the requests. I was responsible for that part of the system. I had to do something … quickly.

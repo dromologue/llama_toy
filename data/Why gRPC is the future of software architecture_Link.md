@@ -1,0 +1,2 @@
+- Why gRPC is the future of software architecture - https://mohit-malhotra.medium.com/why-grpc-is-the-future-of-software-architecture-baa68452a093
+ REST is architectural style which has been a de facto while designing large scale systems these days. REST idealogy disrupted the market around 15 years back replacing SOAP based architectures because of its high performance, lighter and flexible nature.

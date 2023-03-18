@@ -1,0 +1,4 @@
+- System Design Interview Cheatsheet - https://systemdesign.one/system-design-interview-cheatsheet/
+ Disclaimer: The system design questions are subjective. This cheat sheet is a work in progress and is written based on the research I have done on the topic. Feel free to share your feedback and suggestions in the comments Some of the linked resources are affiliates.
+- System Design Interview Cheatsheet - https://systemdesign.one/system-design-interview-cheatsheet/
+ Disclaimer: The system design questions are subjective. This cheat sheet is a work in progress and is written based on the research I have done on the topic. Feel free to share your feedback and suggestions in the comments Some of the linked resources are affiliates.

@@ -1,0 +1,2 @@
+- Modern Software Engineering Architecture - https://medium.com/@dmitryvas/modern-software-engineering-architecture-28e4f25d90f2
+ Architecture is an essential aspect of modern software engineering projects as it helps to design and organize complex software systems that are easy to understand, maintain, and scale.
