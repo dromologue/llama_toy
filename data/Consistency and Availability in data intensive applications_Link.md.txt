@@ -1,2 +1,0 @@
-- Consistency and Availability in data intensive applications - https://medium.com/@shashikantrbl123/consistency-and-availability-in-data-intensive-applications-b7c7093df633
- Users should see the same data which they have written earlier without delay. In case of distributed system, since every users can read from a node among all the available nodes, all the nodes must contain same data at a given point in time.

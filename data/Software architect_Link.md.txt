@@ -1,2 +1,0 @@
-- Software architect - https://medium.com/@jrinchin/software-architect-understand-the-basics-bde7c8277628
- We use software architect on daily basis without even knowing. It is an integral part of overall system design and building blocks. Software architect usually creates the concept, designer works on the specific details.

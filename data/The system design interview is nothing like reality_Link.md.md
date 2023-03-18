@@ -1,2 +1,0 @@
-- The system design interview is nothing like reality - https://blog.developerpurpose.com/the-system-design-interview-is-nothing-like-reality-7f8d5fcdd0ae
- When you interview for a software development job, you’re likely to get some system design questions. Especially if you’re seeking a senior-level role.

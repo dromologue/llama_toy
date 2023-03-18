@@ -1,2 +1,0 @@
-- Code of Architecture — “Distributed Systems, 4th Ed” #7 (Consistency and replication) - https://apolomodov.medium.com/coa-distributed-systems-4th-ed-7-consistency-and-replication-ae1d589d9dcf
- Это седьмой выпуск клуба “Code of Architecture” по книге “Распределенные системы” ван Стина и Таненбаума, в котором мы обсуждаем главу про репликацию и консистентность.

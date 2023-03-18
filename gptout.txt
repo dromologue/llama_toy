@@ -1,2 +1,2 @@
 
-The main system design choices made in designing Netflix include the use of a distributed architecture, microservices, caching, and load balancing. Netflix uses a distributed architecture to ensure scalability and reliability. Microservices are used to break down the application into smaller, more manageable components. Caching is used to improve performance by storing frequently accessed data in memory. Finally, load balancing is used to distribute traffic across multiple servers to ensure that the system can handle large amounts of traffic.
+Justin is an author, poet, and philosopher.

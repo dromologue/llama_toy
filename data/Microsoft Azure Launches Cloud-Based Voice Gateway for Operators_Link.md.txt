@@ -1,2 +1,0 @@
-- Microsoft Azure Launches Cloud-Based Voice Gateway for Operators - https://www.infoq.com/news/2023/03/azure-communications-gateway-ga/
- Microsoft Azure recently announced the general availability of Azure Communications Gateway. This product lets operators connect their fixed and mobile voice networks to Teams Phone, Microsoft's cloud-based system.

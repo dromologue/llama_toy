@@ -10,16 +10,22 @@ usage: llama_toy.py [-h] [-i INFILE] [-q QUERY] [-r READ] [-o OUT]
 
 ## options:
   -h, --help 
+  
   -i INFILE, --infile : File to load query from.
+  
   -q QUERY, --query : What you want to ask ChatGPT.
+  
   -r READ, --read : Directory to load from.
+  
   -o OUT, --out : File to save output to.
 
-For this example the default data is included in the repo and is a selection of articles on medium. Copyright remains with the authors of those articles.
+For this example some data is included in the default 'data' directory. As many files as your subscription to OpenAI allows.
 
 ## dependencies:
  	Python 3.1+
 	LlamaGPT: instructions : https://gpt-index.readthedocs.io/en/latest/getting_started/installation.html
+	OpenAI account and API token: https://platform.openai.com/account/api-keys
+	(this fn assumes an environment variable set at the OS level)
 	
 
 Feel free to PR. 

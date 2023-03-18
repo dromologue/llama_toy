@@ -1,2 +1,0 @@
-- Explaining the CAP Theorem - https://medium.com/@dkrasichkov/explaining-the-cap-theorem-77bb0736a423
- The CAP theorem, also known as Brewer’s theorem, was formulated by E. Brewer at the Symposium on Principles of Distributed Computing in 2000. Two years later S. Gilbert and N. A. Lynch published a formal proof [3].
