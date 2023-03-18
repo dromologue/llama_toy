@@ -10,7 +10,7 @@ parser.add_argument("-o", "--out", help="File to save output to.")
 
 args = parser.parse_args()
 
-logging.basicConfig(stream=sys.stdout, level=logging.INFO)
+logging.basicConfig(stream=sys.stdout, level=logging.ERROR)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 
 qry = ""
